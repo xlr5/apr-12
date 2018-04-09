@@ -4,6 +4,6 @@ There are many things to do in Essen
 ### Nature
 - Lake Baldeney
 ### Industry
-- Muesum Zoolverein
+- Muesum Zollverein
 ### Culture
 - Aalto theatre
