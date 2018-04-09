@@ -4,5 +4,4 @@
 
 - List
 - Listitem 2
-
-[ ] checkbox
+- [ ] checkbox
