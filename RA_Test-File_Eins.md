@@ -1,1 +1,1 @@
-Making text in **italics** and *bold* and vice versa.
+Try **italics** and *bold* at once!
